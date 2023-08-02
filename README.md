@@ -11,7 +11,11 @@ To get started with this project, follow the steps below:
 2. **Install Dependencies:**
 
 Before running the project, make sure you have all the dependencies installed.
-`run:` flutter pub get
+run:
+
+```
+  flutter pub get
+```
 
 3. **Run the App:**
 
